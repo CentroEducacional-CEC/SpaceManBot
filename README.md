@@ -1,7 +1,7 @@
 # SpaceManBot
-This is SpaceManJax's open source Discord Bot. Now on Github!
+This is SpaceManJax's open-source Discord Bot. Now on Github!
 
-This bot runs on Repl.it, a free, online code editor. It can do a lot of things so I decided to host my bot here so I didn't have to have my computer on.
+This bot runs on Repl.it, which is a free online code editor. It can do a lot of things so I decided to host my bot there so I didn't have to have my computer on.
 
 In order for most commands to work, you'll need to install these packages
 
