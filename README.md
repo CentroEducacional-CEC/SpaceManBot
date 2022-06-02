@@ -1,5 +1,5 @@
 # SpaceManBot
-This is SpaceManJax's open-source Discord.py Bot. Now on Github!
+This is StarFallenJax's open-source Discord.py Bot. Now on Github!
 
 This bot runs on Repl.it, which is a free online code editor. It can do a lot of things so I decided to host my bot there so I didn't have to have my computer on.
 
